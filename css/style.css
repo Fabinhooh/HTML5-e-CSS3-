@@ -1,0 +1,41 @@
+body{
+    background-color: silver;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+header{
+    margin-top: 100px;
+
+}
+h1 {
+    color:purple;
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p{
+    font-size: 24px;
+}
+
+img {margin-bottom: 30px;
+    
+}
+
+.img_padrao {
+    margin-bottom: 200px;
+    width: 300px;
+}
+
+.img_logo{
+    width:30px;
+    margin-bottom: 60px;
+
+}
+
+footer {
+    margin-bottom: 30px;
+}
